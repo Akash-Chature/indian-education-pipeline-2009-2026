@@ -1,0 +1,5 @@
+# Data Governance, Licensing & ASER MoU Compliance Policy
+
+1. **ASER Microdata Non-Redistribution:** Unit-level household, child cognitive, and school observation datasets (2009–2024) were obtained directly from ASER Centre under a formal academic research Memorandum of Understanding (MoU). Raw files are stored offline/privately and excluded via `.gitignore`. Only aggregated indicators (state/district/era levels with no identifiable villages, schools, or individuals) are published here.
+2. **MoSPI Survey Data (NSSO & PLFS):** Unit-level microdata from NSSO 66th, 68th, 71st Rounds and PLFS (2018–19 to 2025) were accessed via the National Data Archive (NADA) for independent research. All published indicators apply official MoSPI population multipliers (`final_weight`, `wgt_combined`) and exclude raw microdata files.
+3. **Public Administrative & Fiscal Sources:** Union Budget (Demand for Grants, Net-of-Recoveries), RBI State Finances, UDISE+, and AISHE outputs are derived from official Government of India public portals and harmonized for zero intergovernmental double-counting (`3601`/`3602`) and consistent 31-state RBI legislative symmetry.
