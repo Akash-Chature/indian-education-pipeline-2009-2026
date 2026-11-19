@@ -1,0 +1,26 @@
+# STRICT DATA GOVERNANCE WALL — NEVER COMMIT RAW MICRODATA OR LAKEHOUSES
+*.duckdb
+*.duckdb.wal
+*.parquet
+*.accdb
+*.mdb
+*.dta
+*.sav
+*.sas7bdat
+*.zip
+*.rar
+*.7z
+raw_data/
+private_microdata/
+aser_raw/
+nsso_raw/
+plfs_raw/
+udise_raw/
+
+# Local OS & Notebook Artifacts
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
