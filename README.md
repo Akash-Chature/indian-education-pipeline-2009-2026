@@ -50,4 +50,4 @@ ASER household and school microdata (2009–2024) are accessed under a formal no
 - [ ] **Wedge Brief (Mid-Dec 2026):** Empirical audit of NITI Aayog’s May 2026 school education report + Looker Studio Dashboard #1.
 - [ ] **Flagship Working Paper (Jan 2027):** Complete monograph (LaTeX/SSRN) + Master Dashboard Suite.
 
-*Contact: Akash Kumar Chature | [LinkedIn](https://www.linkedin.com/in/akash-chature-b77869168) | Substack: [Link]*
+*Contact: Akash Kumar Chature | [LinkedIn](https://www.linkedin.com/in/akash-chature-b77869168) | [State & Signal (Substack)](https://statesignal.substack.com)*
