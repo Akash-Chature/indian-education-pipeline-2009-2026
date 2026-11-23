@@ -13,6 +13,7 @@ File Manifest (10 Certified CSVs)
 8	`1A1_union_schemes_bodies_summary.csv`	Granular Union MoE scheme and autonomous-body ledger (BE / RE / Actual utilization, slippage %, and real actual outlays including UGC, AICTE, Central Universities, HEFA, Samagra Shiksha, RUSA/PM-USHA).
 9	`1A1_external_msde_dst_niti_summary.csv`	External Union SBE ledger covering MSDE, Department of Science & Technology (DST), and NITI Aayog Atal Innovation Mission (AIM) across BE / RE / Actuals.
 10	`1A1_digital_skilling_rd_2009_18_vs_2020_26_pivot.csv`	4-Ministry (`MoE Digital/NEP + MSDE + NITI AIM + DST`) pre-NEP vs. post-NEP nominal and real (`2011–12` base) annual comparison through `2026–27 BE`.
+
 Methodological Notes
 Basis Discipline: Never average or pool `Actual`, `RE` (Revised Estimates), and `BE` (Budget Estimates) without filtering on `data_basis` / `union_basis` / `rbi_basis`.
 Geographic Symmetry: RBI State Finances covers the 31 States & UTs with Legislatures (`30` pre-Telangana in `2009–10` to `2012–13`; `31` from `2014–15` onward). The 5 non-legislature UTs (and Ladakh post-2019) do not maintain separate state budgets in RBI appendices.
