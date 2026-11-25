@@ -3,6 +3,7 @@
 **Audit Status:** Certified PASS (10 / 10 CSVs Verified — Nov 23, 2026)  
 **Sources:** Union Budget Demand for Grants (MoE School & Higher Education, MSDE, NITI AIM, DST — Net of `PSK`/`MUSK` Recoveries), RBI *State Finances: A Study of Budgets* (31 States & UTs with Legislatures; Revenue `2202`, Capital `4202`, Education Loans `6202`), and MoSPI National Accounts / CPI Deflators (`2011–12` and `2022–23` spliced bases).
 
+**Column Definitions & Formulas:** See [DATA_DICTIONARY.md](DATA_DICTIONARY.md) for all 192 columns, deflators, and accounting rules.
 ## File Manifest (10 Certified CSVs)
 
 | # | Filename | Scope & Analytical Purpose |
