@@ -1,0 +1,512 @@
+survey_wave,era,section,level_or_course,slice_type,slice_value,n_unweighted,wgt_base_or_students,gar_pct,nar_pct,fulltime_pct,parttime_pct,distance_learning_pct,female_share_pct,q5_richest_share_pct,q1_q2_poorest_share_pct,st_sc_share_pct,muslim_share_pct,rural_share_pct,pvt_unaided_share_pct,mean_tot_exp_rs,low_n_flag
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),National,All India,30321,113217010.47,101.4,83.39,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Sector,Urban,11698,27792617.08,102.2,84.38,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Sector,Rural,18623,85424393.4,101.14,83.07,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Sex,Female,13986,52337626.48,100.51,82.79,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Sex,Male,16335,60879383.99,102.16,83.91,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Sector_x_Sex,Rural | Female,8545,39304075.77,100.06,82.47,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Sector_x_Sex,Urban | Male,6257,14759066.36,102.47,84.95,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Sector_x_Sex,Urban | Female,5441,13033550.71,101.89,83.74,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Sector_x_Sex,Rural | Male,10078,46120317.63,102.06,83.58,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Zone,West,3523,12984211.17,99.54,87.89,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Zone,South,4937,18225184.85,102.78,89.96,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Zone,Central,7566,33972315.58,101.61,79.12,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Zone,North,4568,15586711.02,103.36,83.97,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Zone,East,5892,28135799.06,99.8,81.32,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Zone,North-East,3835,4312788.79,102.87,87.11,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Typology,Youthful / High-Fertility EAG,13470,63164386.94,101.11,79.88,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Typology,High-GSDP Industrial / Metro & Other,6875,25695646.7,100.4,86.34,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Typology,Ageing / Low-TFR South + Goa,4857,18287911.24,102.63,89.88,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Typology,North-East & Hill Special Category,4767,5932689.78,105.2,88.04,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Typology,UT (Non-Legislature),352,136375.81,93.97,82.51,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Jammu & Kashmir (Undivided),610,1087253.11,114.52,90.99,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Punjab,587,2131181.45,107.96,86.75,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Chandigarh,70,56513.51,90.33,78.18,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Uttarakhand,285,920819.71,105.92,95.77,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Haryana,666,2386218.13,99.74,81.87,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Rajasthan,1580,7514041.69,102.25,81.26,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Uttar Pradesh,5164,24246867.28,101.53,77.08,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Bihar,2167,13432755.25,97.12,77.35,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Sikkim,180,55060.33,113.53,95.92,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Nagaland,212,177382.87,103.45,87.84,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Meghalaya,463,317922.92,106.9,85.71,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Assam,1106,2939620.67,103.29,86.93,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,West Bengal,1853,7378589.1,100.21,85.28,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Jharkhand,845,3747583.06,104.6,80.97,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Odisha,1027,3576871.65,103.95,88.39,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Madhya Pradesh,1809,7145392.66,101.91,84.07,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Gujarat,1323,4937453.42,99.81,87.88,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Daman & Diu,64,22112.66,88.28,82.83,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Dadra & Nagar Haveli,73,33327.67,95.81,88.01,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Telangana,503,2425864.04,110.58,92.71,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Karnataka,1190,4728589.44,99.23,90.88,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Goa,65,87148.35,73.56,71.27,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Tamil Nadu,1344,5094089.96,101.47,88.47,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Puducherry,92,91691.57,107.04,96.06,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Himachal Pradesh,322,532647.88,105.02,89.54,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Delhi,448,958035.52,95.57,82.25,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Arunachal Pradesh,339,125751.59,81.8,70.12,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Manipur,658,270813.43,100.31,87.88,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Mizoram,365,102914.83,102.53,86.51,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Tripura,512,323322.16,103.36,94.43,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Chhattisgarh,593,2580055.63,101.59,84.66,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Maharashtra,1998,7904169.08,99.7,88.09,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Andhra Pradesh,874,3609962.41,105.4,88.69,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Lakshadweep,58,5088.43,91.04,90.93,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Kerala,789,2250565.47,100.36,90.26,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),State,Andaman & Nicobar Islands,87,19333.54,108.72,83.11,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Sector_x_Quintile,Rural | Q5 (Richest),2986,11431396.87,107.13,88.91,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Sector_x_Quintile,Rural | Q2,4073,19784111.48,98.69,81.39,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Sector_x_Quintile,Rural | Q3,3891,16909992.29,101.27,83.74,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Sector_x_Quintile,Rural | Q4,3408,14987302.82,103.56,85.77,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Sector_x_Quintile,Urban | Q3,2311,5386405.86,105.14,87.53,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Sector_x_Quintile,Urban | Q5 (Richest),1373,3323110.46,100.43,88.06,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Sector_x_Quintile,Urban | Q1 (Poorest),3414,7981495.31,100.55,77.62,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Sector_x_Quintile,Rural | Q1 (Poorest),4265,22311589.92,98.52,79.24,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Sector_x_Quintile,Urban | Q4,1864,4488392.13,104.77,89.52,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Sector_x_Quintile,Urban | Q2,2736,6613213.31,100.93,84.63,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Social_Group,ST,4563,12046574.28,99.78,83.42,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Social_Group,OBC,12518,51248433.61,101.84,82.83,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Social_Group,SC,5153,22658835.81,101.21,82.07,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Social_Group,Others,8087,27263166.78,101.42,85.53,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Social_Group,Unreported,0,0.0,,,,,,,,,,,,,,1
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Religion,Christianity,1716,2180716.45,99.79,86.66,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Religion,Hinduism,22238,88923747.37,102.18,84.3,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Religion,Others,1004,2595714.8,106.05,86.03,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Religion,Islam,5361,19513886.26,97.42,78.54,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Primary (Age 6-10),Religion,Unreported,2,2945.6,100.0,100.0,,,,,,,,,,,,1
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),National,All India,18375,65298398.42,89.95,63.24,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Sector,Urban,7320,16931383.08,90.65,65.31,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Sector,Rural,11055,48367015.35,89.71,62.52,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Sex,Male,9801,34786179.42,91.77,64.31,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Sex,Female,8574,30512219.0,87.89,62.02,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Sector_x_Sex,Rural | Female,5182,22648153.43,87.68,61.38,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Sector_x_Sex,Urban | Male,3928,9067317.51,92.55,66.55,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Sector_x_Sex,Urban | Female,3392,7864065.56,88.47,63.87,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Sector_x_Sex,Rural | Male,5873,25718861.91,91.49,63.52,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Zone,West,2359,8002783.46,92.23,70.5,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Zone,South,3523,12264124.23,89.48,72.32,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Zone,North,2697,8671354.24,91.27,62.17,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Zone,Central,4269,18713435.47,83.17,53.87,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Zone,East,3467,15480177.21,93.44,63.19,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Zone,North-East,2060,2166523.82,112.62,70.53,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Typology,UT (Non-Legislature),252,90141.22,82.26,63.89,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Typology,Youthful / High-Fertility EAG,7579,34010956.6,85.76,56.26,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Typology,High-GSDP Industrial / Metro & Other,4476,15733031.24,95.95,69.98,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Typology,Ageing / Low-TFR South + Goa,3460,12319995.72,89.49,72.26,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Typology,North-East & Hill Special Category,2608,3144273.64,107.29,69.7,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Madhya Pradesh,1150,4611102.43,96.61,68.33,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Gujarat,842,2760934.1,92.45,69.93,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Daman & Diu,39,14112.34,40.06,38.23,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Dadra & Nagar Haveli,41,16019.96,81.62,67.13,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Telangana,354,1642570.58,87.16,68.04,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Karnataka,776,2820834.37,88.01,73.61,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Goa,60,78426.5,90.07,61.64,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Tamil Nadu,1025,3692016.04,88.84,72.35,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Puducherry,54,46348.31,90.67,79.06,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Jammu & Kashmir (Undivided),326,632776.17,93.42,61.51,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Punjab,347,1217769.57,88.08,60.22,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Chandigarh,49,37453.9,94.36,69.65,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Uttarakhand,185,511834.05,103.08,84.91,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Haryana,385,1357721.57,89.82,65.35,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Rajasthan,917,4054723.6,89.52,56.72,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Uttar Pradesh,2814,12616617.79,77.86,48.09,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Bihar,1077,6360384.29,89.22,57.3,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Sikkim,102,24044.25,140.56,68.32,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Nagaland,140,111740.26,83.83,66.01,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Meghalaya,233,158957.7,116.21,57.64,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Assam,558,1457830.82,115.57,72.24,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,West Bengal,1259,4749213.73,105.65,72.96,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Jharkhand,455,2062077.43,89.98,56.15,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Odisha,676,2308501.75,83.07,65.62,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Maharashtra,1377,5133290.55,92.32,71.05,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Andhra Pradesh,611,2460105.59,91.73,70.92,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Lakshadweep,47,3468.23,103.85,84.55,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Kerala,580,1579694.33,92.48,76.44,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Andaman & Nicobar Islands,76,19086.79,86.34,65.08,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Himachal Pradesh,222,344973.66,99.22,79.54,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Delhi,266,514101.72,96.38,67.41,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Arunachal Pradesh,170,58969.52,129.72,67.31,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Manipur,356,124720.29,91.84,64.3,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Mizoram,226,64176.83,97.26,70.37,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Tripura,275,166084.15,114.03,77.07,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),State,Chhattisgarh,305,1485715.25,86.57,58.14,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Sector_x_Quintile,Rural | Q4,2225,9293462.64,93.72,66.24,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Sector_x_Quintile,Rural | Q5 (Richest),2128,7794730.56,90.93,67.3,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Sector_x_Quintile,Rural | Q3,2325,9675015.42,93.39,64.66,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Sector_x_Quintile,Rural | Q2,2181,10608185.8,90.91,61.35,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Sector_x_Quintile,Urban | Q3,1521,3517735.47,97.08,69.1,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Sector_x_Quintile,Urban | Q5 (Richest),1058,2400684.4,94.29,73.23,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Sector_x_Quintile,Urban | Q1 (Poorest),1830,4344439.19,82.39,54.08,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Sector_x_Quintile,Rural | Q1 (Poorest),2196,10995620.92,81.05,55.21,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Sector_x_Quintile,Urban | Q4,1272,2873368.83,94.89,73.63,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Sector_x_Quintile,Urban | Q2,1639,3795155.19,88.64,63.33,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Social_Group,OBC,7582,29733488.82,88.36,62.01,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Social_Group,SC,3228,13158693.92,86.59,59.88,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Social_Group,ST,2649,6834307.11,89.45,61.75,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Social_Group,Others,4916,15571908.56,96.05,69.07,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Social_Group,Unreported,0,0.0,,,,,,,,,,,,,,1
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Religion,Hinduism,13692,51909267.3,91.22,64.68,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Religion,Others,609,1589962.65,89.84,63.92,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Religion,Islam,3016,10467112.0,82.89,55.16,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Religion,Unreported,0,0.0,,,,,,,,,,,,,,1
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Upper Primary (Age 11-13),Religion,Christianity,1058,1332056.46,96.03,69.84,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),National,All India,13773,45691951.77,87.12,51.66,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Sector,Urban,5626,12095577.14,91.9,57.16,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Sector,Rural,8147,33596374.63,85.39,49.68,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Sex,Female,6450,20952000.55,86.96,51.31,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Sex,Male,7323,24739951.22,87.25,51.96,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Sector_x_Sex,Rural | Male,4328,18210907.82,86.25,50.56,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Sector_x_Sex,Rural | Female,3819,15385466.81,84.38,48.63,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Sector_x_Sex,Urban | Male,2995,6529043.4,90.04,55.85,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Sector_x_Sex,Urban | Female,2631,5566533.74,94.08,58.69,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Zone,North,2014,6202220.24,88.72,48.34,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Zone,Central,3254,13470401.09,72.27,40.07,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Zone,East,2655,11151766.38,89.49,51.14,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Zone,North-East,1663,1701869.18,97.18,56.34,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Zone,West,1701,5211303.47,93.98,59.39,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Zone,South,2486,7954391.42,101.01,68.52,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Typology,Youthful / High-Fertility EAG,5840,24698696.86,78.29,43.67,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Typology,High-GSDP Industrial / Metro & Other,3250,10599595.83,93.79,56.55,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Typology,Ageing / Low-TFR South + Goa,2423,7986689.98,101.42,68.68,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Typology,North-East & Hill Special Category,2064,2336394.19,100.66,55.15,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Typology,UT (Non-Legislature),196,70574.91,107.27,72.75,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Maharashtra,974,3280013.84,100.59,62.09,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Andhra Pradesh,413,1503927.72,87.76,53.92,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Lakshadweep,36,2310.24,113.86,75.11,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Kerala,424,1052973.42,111.98,80.32,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Andaman & Nicobar Islands,61,13117.05,99.3,55.02,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Himachal Pradesh,150,209718.45,111.11,67.24,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Delhi,172,325424.35,78.93,43.45,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Arunachal Pradesh,178,60366.63,114.25,54.63,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Manipur,256,85918.33,100.47,67.56,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Mizoram,145,37427.01,127.78,64.08,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Tripura,252,155573.12,104.85,62.37,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Chhattisgarh,283,1183123.64,87.86,54.94,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Madhya Pradesh,886,3261266.82,80.47,46.94,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Gujarat,632,1868294.01,80.5,53.85,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Daman & Diu,34,6395.33,72.05,54.88,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Dadra & Nagar Haveli,27,8874.44,100.51,59.19,,,,,,,,,,,,1
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Telangana,252,1124731.55,97.73,67.9,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Karnataka,557,1895246.5,98.9,73.58,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Goa,34,47725.86,168.91,91.59,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Tamil Nadu,703,2333352.52,107.94,69.0,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Puducherry,40,28732.44,98.12,56.94,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Jammu & Kashmir (Undivided),251,424806.56,109.44,44.39,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Punjab,274,907230.97,90.93,53.07,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Chandigarh,38,39877.86,116.66,84.32,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Uttarakhand,129,336512.98,92.11,61.03,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Haryana,280,864644.41,90.98,54.5,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Rajasthan,720,3094004.65,83.38,43.17,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Uttar Pradesh,2085,9026010.63,67.27,35.64,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Bihar,875,4634033.7,78.24,44.07,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Sikkim,91,25480.29,109.05,42.26,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Nagaland,121,91090.96,104.94,73.14,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Meghalaya,202,136214.64,122.17,38.43,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Assam,418,1109798.22,89.92,55.6,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,West Bengal,918,3353988.25,97.47,55.37,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Jharkhand,316,1342762.01,94.72,43.09,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),State,Odisha,546,1820982.42,99.57,67.28,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Sector_x_Quintile,Rural | Q5 (Richest),1862,5782844.62,105.67,63.59,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Sector_x_Quintile,Rural | Q2,1456,7173559.31,81.91,45.8,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Sector_x_Quintile,Rural | Q3,1704,6736257.47,85.57,49.23,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Sector_x_Quintile,Rural | Q4,1700,6755791.42,90.82,54.25,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Sector_x_Quintile,Urban | Q3,1161,2433221.81,100.36,61.95,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Sector_x_Quintile,Urban | Q5 (Richest),929,1807098.5,111.14,70.99,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Sector_x_Quintile,Urban | Q1 (Poorest),1287,3111038.34,66.58,39.39,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Sector_x_Quintile,Rural | Q1 (Poorest),1425,7147921.82,67.18,38.42,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Sector_x_Quintile,Urban | Q4,1051,2142598.91,101.89,67.43,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Sector_x_Quintile,Urban | Q2,1198,2601619.58,92.67,55.85,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Social_Group,Others,3776,11489058.88,95.41,58.42,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Social_Group,Unreported,2,5284.19,50.0,0.0,,,,,,,,,,,,1
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Social_Group,OBC,5545,19976636.18,84.97,50.6,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Social_Group,SC,2427,9217690.67,86.24,48.53,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Social_Group,ST,2023,5003281.84,78.3,46.18,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Religion,Christianity,797,939962.68,114.78,63.4,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Religion,Islam,2214,7138758.15,70.16,38.84,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Religion,Hinduism,10244,36460328.4,89.18,53.58,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Religion,Others,517,1151429.75,104.26,60.62,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Secondary (Age 14-15),Religion,Unreported,1,1472.8,0.0,0.0,,,,,,,,,,,,1
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),National,All India,13620,40924107.92,64.31,37.59,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Sector,Urban,5673,11404424.02,73.56,46.03,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Sector,Rural,7947,29519683.9,60.73,34.33,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Sex,Female,6179,18690910.91,62.66,36.75,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Sex,Male,7441,22233197.01,65.69,38.3,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Sector_x_Sex,Rural | Male,4412,16037954.19,63.0,35.52,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Sector_x_Sex,Rural | Female,3535,13481729.72,58.04,32.92,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Sector_x_Sex,Urban | Male,3029,6195242.83,72.65,45.48,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Sector_x_Sex,Urban | Female,2644,5209181.19,74.65,46.69,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Zone,North,2169,5580904.47,77.15,41.68,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Zone,Central,3069,11809972.89,59.38,31.26,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Zone,East,2376,9362065.28,53.69,27.48,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Zone,North-East,1452,1286241.65,75.44,34.49,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Zone,West,1874,5314295.99,62.01,42.95,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Zone,South,2680,7570627.64,75.36,53.73,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Typology,UT (Non-Legislature),187,60604.23,98.27,65.23,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Typology,North-East & Hill Special Category,1928,1990864.55,79.78,39.48,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Typology,High-GSDP Industrial / Metro & Other,3442,10216292.05,65.47,40.61,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Typology,Youthful / High-Fertility EAG,5428,21056949.19,58.21,30.03,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Typology,Ageing / Low-TFR South + Goa,2635,7599397.89,75.31,53.77,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Himachal Pradesh,189,275677.27,96.35,65.57,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Delhi,214,360158.38,93.44,55.76,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Arunachal Pradesh,144,57529.8,73.19,29.31,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Manipur,246,75273.2,122.29,57.33,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Mizoram,121,27200.49,98.97,25.93,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Tripura,188,83247.08,66.89,26.99,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Chhattisgarh,250,916673.65,60.43,34.58,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Maharashtra,1095,3298774.99,67.36,46.19,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Andhra Pradesh,462,1579230.94,70.45,48.85,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Lakshadweep,28,1490.19,166.57,59.3,,,,,,,,,,,,1
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Kerala,445,1055353.22,100.13,74.41,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Andaman & Nicobar Islands,62,11494.44,111.78,58.07,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Jammu & Kashmir (Undivided),287,428945.64,82.16,37.68,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Punjab,313,870451.55,93.41,53.52,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Chandigarh,36,34195.58,105.63,77.75,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Uttarakhand,128,303426.16,70.84,49.4,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Haryana,330,840967.25,79.95,51.41,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Rajasthan,672,2467082.66,65.45,28.71,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Uttar Pradesh,2026,8248024.61,58.87,30.62,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Bihar,734,3667898.58,55.32,26.32,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Sikkim,103,23726.05,82.95,26.62,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Nagaland,127,64852.67,115.71,69.8,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Meghalaya,180,122774.9,50.45,11.83,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Assam,343,831637.47,71.77,34.63,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,West Bengal,817,2885597.79,55.86,27.69,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Jharkhand,314,1307547.92,50.63,24.62,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Odisha,511,1501020.99,48.21,32.4,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Madhya Pradesh,793,2645274.64,60.63,32.12,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Gujarat,673,1960342.11,52.65,37.09,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Daman & Diu,34,5601.6,93.27,59.1,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Dadra & Nagar Haveli,27,7822.42,36.82,26.56,,,,,,,,,,,,1
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Telangana,299,1072798.1,78.61,51.52,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Karnataka,598,1715675.7,64.6,47.47,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Goa,45,41754.88,79.36,63.46,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Tamil Nadu,735,2095564.21,73.64,53.3,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),State,Puducherry,51,39020.84,66.61,49.1,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Sector_x_Quintile,Rural | Q4,1670,6072437.58,69.75,42.09,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Sector_x_Quintile,Rural | Q5 (Richest),2342,6080364.91,88.71,53.19,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Sector_x_Quintile,Rural | Q3,1523,5729946.01,58.64,32.13,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Sector_x_Quintile,Rural | Q2,1273,6002594.01,46.83,24.91,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Sector_x_Quintile,Urban | Q3,1128,2228243.8,77.46,46.71,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Sector_x_Quintile,Urban | Q5 (Richest),1177,2170374.24,99.08,65.6,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Sector_x_Quintile,Urban | Q1 (Poorest),1143,2637616.89,41.12,23.12,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Sector_x_Quintile,Rural | Q1 (Poorest),1139,5634341.39,37.74,17.9,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Sector_x_Quintile,Urban | Q4,1158,2212623.18,91.98,60.84,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Sector_x_Quintile,Urban | Q2,1067,2155565.92,64.63,38.46,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Social_Group,Others,4006,10737094.47,78.34,46.23,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Social_Group,Unreported,1,2642.1,0.0,0.0,,,,,,,,,,,,1
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Social_Group,ST,1806,4086182.56,51.91,28.04,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Social_Group,OBC,5470,17980415.92,63.03,37.98,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Social_Group,SC,2337,8117772.87,54.84,30.13,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Religion,Islam,2022,6143457.52,45.07,24.23,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Religion,Hinduism,10314,32740102.55,66.75,39.41,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Religion,Others,532,1167527.57,80.96,47.16,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Religion,Unreported,0,0.0,,,,,,,,,,,,,,1
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Higher Secondary (Age 16-17),Religion,Christianity,752,873020.28,85.85,50.81,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),National,All India,41495,121591805.43,26.93,22.44,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Sector,Rural,23183,83914544.15,21.66,18.25,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Sector,Urban,18312,37677261.28,38.67,31.77,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Sex,Female,18572,57729871.44,24.36,20.51,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Sex,Male,22923,63861933.99,29.25,24.18,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Sector_x_Sex,Rural | Female,10245,39878088.52,18.39,15.61,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Sector_x_Sex,Urban | Male,9985,19825478.36,39.52,32.04,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Sector_x_Sex,Urban | Female,8327,17851782.93,37.72,31.46,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Sector_x_Sex,Rural | Male,12938,44036455.63,24.62,20.63,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Zone,West,5678,17003199.22,28.02,23.75,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Zone,South,7530,23764767.15,35.08,29.47,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Zone,North,6981,17404655.51,31.38,26.14,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Zone,Central,9221,32484935.75,24.89,20.47,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Zone,East,7226,26665051.64,19.16,15.87,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Zone,North-East,4859,4269196.15,23.03,18.97,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Typology,Youthful / High-Fertility EAG,16434,58665469.21,23.56,19.37,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Typology,High-GSDP Industrial / Metro & Other,10952,32844847.04,26.87,22.78,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Typology,Ageing / Low-TFR South + Goa,7379,23837293.93,35.06,29.48,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Typology,North-East & Hill Special Category,6224,6038765.82,27.78,22.59,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Typology,UT (Non-Legislature),506,205429.43,28.74,20.73,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Madhya Pradesh,2549,7986464.95,19.08,15.71,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Gujarat,1905,5902209.04,22.53,19.08,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Daman & Diu,84,46125.14,9.43,8.84,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Dadra & Nagar Haveli,73,34963.21,17.43,16.14,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Telangana,903,3281687.6,37.49,31.67,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Karnataka,1845,6283665.71,22.95,20.51,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Goa,102,121724.65,27.89,26.34,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Tamil Nadu,1885,6253272.37,42.6,34.86,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Puducherry,134,96680.7,52.53,40.74,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Jammu & Kashmir (Undivided),878,1134345.26,31.21,24.83,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Punjab,1066,2704122.23,29.63,25.1,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Chandigarh,96,75143.21,44.76,31.49,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Uttarakhand,364,794961.29,40.7,37.26,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Haryana,1057,2722020.02,30.99,26.4,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Rajasthan,2329,8063130.78,27.55,23.17,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Uttar Pradesh,5983,22078849.94,27.56,22.64,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Bihar,2125,9380391.21,19.0,14.44,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Sikkim,273,48178.94,16.56,14.11,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Nagaland,405,196895.26,44.87,40.87,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Meghalaya,575,353909.17,17.2,14.4,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Assam,1189,2883165.98,20.43,16.99,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,West Bengal,2706,9342610.25,20.53,17.98,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Jharkhand,932,3263662.17,18.81,16.0,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Odisha,1463,4678388.01,17.01,14.45,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Maharashtra,3514,10898177.18,31.1,26.34,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Andhra Pradesh,1244,4941946.66,31.25,24.87,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Lakshadweep,135,10654.47,16.0,9.62,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Kerala,1266,2858316.23,48.69,42.61,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Andaman & Nicobar Islands,118,38543.41,34.38,21.21,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Himachal Pradesh,487,635224.41,53.55,42.9,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Delhi,704,1275708.32,42.6,32.09,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Arunachal Pradesh,349,109184.04,42.01,30.23,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Manipur,875,242243.17,45.86,35.37,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Mizoram,547,111870.95,24.38,19.85,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Tripura,646,323748.65,16.29,12.66,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),State,Chhattisgarh,689,2419620.87,19.75,16.36,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Sector_x_Quintile,Rural | Q1 (Poorest),3030,15219838.3,7.99,6.62,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Sector_x_Quintile,Urban | Q4,3717,7305881.25,52.2,42.96,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Sector_x_Quintile,Urban | Q2,3199,7290520.96,22.32,18.36,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Sector_x_Quintile,Rural | Q5 (Richest),7994,19021095.12,41.76,35.59,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Sector_x_Quintile,Rural | Q2,3291,15675976.25,11.48,9.6,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Sector_x_Quintile,Rural | Q3,4093,16658991.12,18.11,14.93,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Sector_x_Quintile,Rural | Q4,4775,17338643.36,24.22,20.44,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Sector_x_Quintile,Urban | Q3,3547,7685614.22,33.93,28.05,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Sector_x_Quintile,Urban | Q5 (Richest),4651,7640314.45,72.4,59.2,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Sector_x_Quintile,Urban | Q1 (Poorest),3198,7754930.4,12.75,10.48,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Social_Group,OBC,16239,51736610.08,26.53,22.21,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Social_Group,SC,6692,24421417.84,20.14,16.47,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Social_Group,ST,5522,12080615.6,15.25,12.81,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Social_Group,Others,13041,33350519.81,36.75,30.66,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Social_Group,Unreported,1,2642.1,0.0,0.0,,,,,,,,,,,,1
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Religion,Christianity,2589,2627606.68,39.35,34.32,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Religion,Hinduism,31139,97437921.62,28.55,23.73,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Religion,Others,1576,3186399.52,34.36,28.61,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Religion,Islam,6191,18339877.61,15.26,12.78,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_GAR_NAR,Post-Higher Secondary (18-23),Religion,Unreported,0,0.0,,,,,,,,,,,,,,1
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),National,All India,7704,19841852.43,,,94.42,1.25,4.33,47.42,32.85,20.82,22.73,8.71,61.74,23.47,13846.23,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Sector,Rural,3634,12251217.27,,,95.78,1.06,3.16,43.52,37.09,18.71,26.01,7.62,100.0,24.08,11933.33,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Sector,Urban,4070,7590635.16,,,92.23,1.55,6.22,53.7,26.0,24.24,17.44,10.46,0.0,22.48,16933.63,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Zone,South,1259,3800837.7,,,92.59,1.72,5.7,54.47,38.58,11.23,20.76,7.79,54.96,40.78,17612.07,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Zone,West,946,2502864.03,,,96.2,1.11,2.69,44.05,37.76,14.46,19.59,4.75,49.19,10.49,15762.1,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Zone,North,1480,3445517.66,,,91.86,1.83,6.31,44.56,49.11,8.09,24.35,7.56,60.53,28.02,17163.61,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Zone,Central,1790,5856550.78,,,94.6,1.22,4.18,46.91,22.53,33.37,22.84,8.68,69.7,28.05,9677.08,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Zone,East,1309,3521197.92,,,96.76,0.31,2.93,46.01,24.11,27.46,21.78,11.36,65.06,4.77,11784.6,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Zone,North-East,920,714884.35,,,97.41,1.23,1.35,46.49,34.4,20.01,40.24,20.15,66.17,9.43,15437.69,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Typology,North-East & Hill Special Category,1278,1135805.78,,,95.24,1.11,3.65,47.27,38.54,17.61,33.81,25.46,71.23,9.65,15451.34,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Typology,High-GSDP Industrial / Metro & Other,1985,5006767.0,,,92.87,1.75,5.38,46.24,40.47,13.84,21.51,7.61,49.79,11.29,17564.25,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Typology,Youthful / High-Fertility EAG,3142,9859065.75,,,95.83,0.83,3.34,45.3,25.97,28.52,22.91,7.72,69.48,24.66,10306.33,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Typology,Ageing / Low-TFR South + Goa,1236,3816080.1,,,92.68,1.71,5.62,54.36,38.61,11.17,20.65,7.73,54.87,40.6,17586.31,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Typology,UT (Non-Legislature),63,24133.8,,,79.55,0.0,20.45,63.9,82.45,3.55,10.74,5.06,23.57,2.43,21689.76,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Sector_x_Quintile,Urban | Q4,1080,2142341.37,,,92.31,1.29,6.4,55.59,0.0,0.0,15.76,7.89,0.0,26.0,16150.6,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Sector_x_Quintile,Urban | Q2,637,1113091.85,,,95.89,0.72,3.39,48.69,0.0,100.0,21.22,10.98,0.0,17.42,10133.4,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Sector_x_Quintile,Rural | Q1 (Poorest),252,953407.38,,,97.11,2.09,0.8,43.31,0.0,100.0,37.56,5.75,100.0,28.37,7377.39,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Sector_x_Quintile,Rural | Q5 (Richest),1611,4543801.52,,,95.51,0.76,3.73,46.54,100.0,0.0,19.7,5.05,100.0,25.82,16196.72,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Sector_x_Quintile,Urban | Q3,863,1634474.59,,,92.38,0.92,6.7,53.75,0.0,0.0,17.47,10.59,0.0,22.61,14221.7,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Sector_x_Quintile,Urban | Q5 (Richest),1086,1973890.2,,,88.76,2.59,8.66,55.32,100.0,0.0,16.13,8.32,0.0,24.41,26780.87,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Sector_x_Quintile,Urban | Q1 (Poorest),404,726837.16,,,95.46,2.21,2.33,51.25,0.0,100.0,20.12,22.74,0.0,14.25,9011.65,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Sector_x_Quintile,Rural | Q4,815,3115143.02,,,94.56,1.84,3.59,38.66,0.0,0.0,30.19,7.01,100.0,23.33,10367.4,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Sector_x_Quintile,Rural | Q3,602,2300482.25,,,96.98,0.77,2.25,43.4,0.0,0.0,26.12,10.83,100.0,20.36,9440.87,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Sector_x_Quintile,Rural | Q2,354,1338383.1,,,96.56,0.0,3.44,44.97,0.0,100.0,29.29,13.61,100.0,23.26,8633.59,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Social_Group,OBC,2897,8124208.3,,,94.37,1.15,4.48,46.48,29.73,24.43,0.0,10.58,62.77,28.32,13174.75,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Social_Group,SC,1025,3243221.33,,,94.21,1.22,4.57,45.78,26.53,26.0,100.0,0.44,69.54,21.58,10805.43,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Social_Group,ST,844,1267290.73,,,97.78,0.28,1.94,41.42,27.86,22.83,100.0,3.28,73.48,14.83,11666.64,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Social_Group,Others,2938,7207132.08,,,93.99,1.54,4.47,50.26,40.08,14.08,0.0,11.28,55.02,20.36,16354.77,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Sex,Male,3832,10433529.68,,,95.37,1.03,3.6,0.0,31.74,21.11,23.97,8.93,66.32,23.0,13634.11,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Graduate & Post-Graduate (General),Sex,Female,3872,9408322.75,,,93.38,1.48,5.14,100.0,34.08,20.51,21.36,8.46,56.68,23.98,14081.47,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),National,All India,11369,10995950.83,,,96.15,1.27,2.57,37.13,56.59,10.09,16.18,7.94,43.39,50.29,62841.16,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Sector,Urban,6262,6225129.36,,,95.02,1.39,3.58,37.47,54.19,9.34,11.17,8.15,0.0,50.32,73108.28,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Sector,Rural,5107,4770821.46,,,97.63,1.12,1.26,36.69,59.71,11.08,22.71,7.68,100.0,50.25,49444.29,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Zone,Central,1870,1845530.48,,,96.89,0.97,2.13,36.93,43.73,20.75,23.56,6.81,47.53,47.91,55281.37,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Zone,North,1929,1634524.17,,,94.96,2.29,2.75,36.25,71.18,4.18,14.36,5.82,45.47,54.69,63780.99,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Zone,East,1630,1280171.82,,,96.54,1.37,2.09,29.47,48.79,14.75,15.16,13.64,51.88,42.17,60900.37,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Zone,North-East,1204,182483.47,,,95.71,3.67,0.62,39.0,40.71,21.23,46.0,10.22,61.29,25.67,51550.49,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Zone,West,1648,1926850.08,,,95.8,1.41,2.79,38.06,57.84,6.13,12.36,5.59,32.04,24.58,66787.31,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Zone,South,3088,4126390.81,,,96.36,0.81,2.84,39.43,59.09,7.58,14.39,8.52,42.58,65.22,65108.75,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Typology,UT (Non-Legislature),142,30769.28,,,74.01,16.82,9.17,41.56,81.11,5.09,10.73,13.95,18.43,29.12,68056.39,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Typology,Youthful / High-Fertility EAG,3396,3231170.36,,,97.29,0.8,1.91,33.56,47.61,16.76,18.57,7.98,50.17,50.92,56119.3,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Typology,High-GSDP Industrial / Metro & Other,3173,3230229.07,,,94.85,2.1,3.05,37.66,62.3,6.25,14.41,6.1,35.29,31.83,66786.36,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Typology,Ageing / Low-TFR South + Goa,3047,4127082.54,,,96.42,0.8,2.77,39.34,59.11,7.56,14.35,8.43,42.53,65.16,65135.37,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Typology,North-East & Hill Special Category,1611,376699.58,,,96.41,2.12,1.47,38.63,54.93,14.12,31.25,17.64,66.17,41.92,61107.0,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Sector_x_Quintile,Rural | Q1 (Poorest),163,182679.16,,,99.1,0.9,0.0,36.12,0.0,100.0,58.64,8.04,100.0,24.18,27007.75,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Sector_x_Quintile,Urban | Q4,1448,1460340.6,,,95.18,1.01,3.8,35.76,0.0,0.0,14.02,8.58,0.0,43.61,56640.07,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Sector_x_Quintile,Urban | Q2,536,388787.63,,,96.8,1.18,2.02,35.67,0.0,100.0,16.57,14.87,0.0,49.82,46310.5,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Sector_x_Quintile,Rural | Q5 (Richest),3283,2848869.72,,,97.45,0.92,1.63,38.24,100.0,0.0,16.14,6.19,100.0,57.01,60871.79,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Sector_x_Quintile,Rural | Q3,529,603266.61,,,97.38,1.87,0.75,42.78,0.0,0.0,36.51,4.1,100.0,40.81,31342.02,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Sector_x_Quintile,Rural | Q4,867,790148.32,,,97.58,1.4,1.03,24.9,0.0,0.0,23.57,14.59,100.0,47.55,39844.53,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Sector_x_Quintile,Rural | Q2,265,345857.66,,,98.84,0.95,0.21,40.57,0.0,100.0,31.83,10.22,100.0,30.93,20672.23,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Sector_x_Quintile,Urban | Q3,951,810288.7,,,95.97,1.03,3.0,39.08,0.0,0.0,13.11,8.91,0.0,43.66,52929.64,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Sector_x_Quintile,Urban | Q5 (Richest),3054,3373231.51,,,94.67,1.7,3.63,37.48,100.0,0.0,8.63,6.21,0.0,55.43,90533.72,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Sector_x_Quintile,Urban | Q1 (Poorest),273,192480.93,,,92.41,0.86,6.73,47.07,0.0,100.0,15.09,22.1,0.0,40.79,31744.64,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Social_Group,Others,4593,4434661.04,,,95.78,1.5,2.73,37.98,66.87,5.1,0.0,7.79,31.73,49.24,75229.09,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Social_Group,OBC,4314,4782236.84,,,96.7,0.84,2.46,35.11,52.4,11.98,0.0,10.75,47.68,53.86,58908.66,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Social_Group,ST,1078,481377.26,,,97.38,0.91,1.71,43.35,35.14,21.65,100.0,1.73,66.45,27.64,39555.56,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Social_Group,SC,1384,1297675.69,,,94.95,2.27,2.78,39.39,44.83,15.91,100.0,0.44,58.86,49.1,43636.92,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Sex,Female,3932,4082886.48,,,95.68,1.27,3.05,100.0,57.65,10.67,17.63,6.71,42.88,51.38,61602.07,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Technical/Professional (All Levels),Sex,Male,7437,6913064.35,,,96.43,1.28,2.29,0.0,55.96,9.75,15.32,8.68,43.69,49.64,63572.98,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),National,All India,2890,2148090.94,,,98.0,1.77,0.23,18.74,38.72,18.33,27.96,8.21,62.46,42.23,27676.48,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Sector,Urban,1041,806345.3,,,97.55,2.05,0.4,23.05,27.77,24.83,23.98,10.71,0.0,44.46,31500.8,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Sector,Rural,1849,1341745.64,,,98.27,1.61,0.12,16.14,45.31,14.42,30.36,6.7,100.0,40.88,25378.19,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Zone,South,719,712329.9,,,98.05,1.45,0.5,20.01,37.74,16.51,22.77,10.17,57.09,48.87,23840.82,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Zone,West,595,448145.38,,,97.5,2.5,0.0,17.55,40.71,14.12,31.89,5.74,52.06,20.56,27225.04,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Zone,Central,430,306313.22,,,98.9,1.0,0.1,24.79,31.22,28.79,25.02,6.41,69.32,37.16,25210.52,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Zone,North,443,367505.22,,,99.47,0.27,0.26,20.16,48.64,11.16,30.58,7.24,72.28,47.54,33764.97,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Zone,East,475,283166.96,,,96.82,3.18,0.0,8.25,33.78,27.32,31.46,9.73,71.26,59.5,33249.16,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Zone,North-East,228,30630.26,,,88.35,11.58,0.07,25.58,34.41,20.44,57.07,14.27,72.0,31.91,23575.18,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Typology,UT (Non-Legislature),56,6541.13,,,94.61,5.39,0.0,22.79,53.94,9.38,43.78,3.04,24.65,28.51,18050.76,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Typology,Ageing / Low-TFR South + Goa,714,720132.31,,,98.04,1.46,0.5,20.6,37.82,16.41,22.97,10.11,56.98,48.17,23762.13,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Typology,Youthful / High-Fertility EAG,972,686358.94,,,98.85,1.11,0.04,14.56,33.03,24.69,28.64,6.75,69.44,55.52,30889.16,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Typology,High-GSDP Industrial / Metro & Other,822,638581.79,,,97.33,2.51,0.15,17.93,45.47,13.66,30.94,7.01,58.33,22.62,29226.54,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Typology,North-East & Hill Special Category,326,96476.77,,,96.26,3.72,0.02,39.62,40.32,18.95,39.69,12.63,83.63,34.04,24431.38,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Sector_x_Quintile,Rural | Q4,444,304363.06,,,97.26,2.74,0.0,12.53,0.0,0.0,30.73,5.74,100.0,45.72,21906.4,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Sector_x_Quintile,Rural | Q5 (Richest),798,607951.61,,,98.26,1.5,0.24,18.41,100.0,0.0,24.98,5.79,100.0,42.69,30822.39,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Sector_x_Quintile,Rural | Q2,173,119890.2,,,98.42,1.39,0.19,14.81,0.0,100.0,23.14,3.33,100.0,37.24,19687.39,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Sector_x_Quintile,Rural | Q3,312,235934.55,,,99.34,0.66,0.0,14.51,0.0,0.0,45.46,9.16,100.0,35.8,19141.16,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Sector_x_Quintile,Urban | Q3,234,173497.48,,,98.7,1.29,0.01,23.87,0.0,0.0,24.15,14.22,0.0,39.34,22385.51,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Sector_x_Quintile,Urban | Q1 (Poorest),125,55549.32,,,100.0,0.0,0.0,27.42,0.0,100.0,30.62,20.26,0.0,36.93,18673.28,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Sector_x_Quintile,Urban | Q5 (Richest),212,223889.56,,,96.46,3.08,0.46,26.6,100.0,0.0,21.81,6.89,0.0,59.5,47795.49,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Sector_x_Quintile,Rural | Q1 (Poorest),122,73606.22,,,98.79,1.21,0.0,19.69,0.0,100.0,36.62,15.84,100.0,28.19,24028.85,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Sector_x_Quintile,Urban | Q4,250,208717.58,,,95.77,3.2,1.03,18.53,0.0,0.0,21.2,8.63,0.0,38.09,30584.19,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Sector_x_Quintile,Urban | Q2,220,144691.36,,,99.51,0.49,0.0,21.43,0.0,100.0,28.61,11.76,0.0,39.4,23463.96,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Social_Group,OBC,1218,930486.1,,,98.51,1.49,0.0,17.49,37.11,19.65,0.0,12.66,61.84,45.31,27409.77,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Social_Group,SC,494,395476.17,,,97.93,2.0,0.06,21.19,37.81,17.81,100.0,0.3,61.16,36.8,24181.26,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Social_Group,ST,396,205232.85,,,97.96,2.04,0.0,25.58,24.92,20.79,100.0,0.16,80.61,32.13,18790.7,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Social_Group,Others,782,616895.83,,,97.28,1.97,0.75,16.77,46.34,15.85,0.0,9.24,58.19,44.41,33275.65,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Sex,Male,2382,1745640.22,,,98.01,1.77,0.22,0.0,37.83,18.06,26.6,7.99,64.46,43.99,27933.83,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_Course_Mode_Distance,Vocational (All Levels),Sex,Female,508,402450.72,,,97.97,1.77,0.26,100.0,42.61,19.5,33.86,9.17,53.81,34.58,26560.24,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,General,Course_Code_National,01: General: up to Class X,61293,213260396.56,,,99.82,0.11,0.06,45.77,15.49,45.4,30.16,15.33,74.28,26.61,5355.59,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Technical/Professional,Course_Code_National,13: Technical/Professional: IT/Computer courses,1747,1349514.15,,,92.49,4.51,3.0,40.02,53.08,8.92,15.5,6.83,42.93,47.36,48903.15,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,General,Course_Code_National,04: General: Commerce,3514,8980797.96,,,95.86,1.41,2.74,43.36,36.5,17.34,19.65,8.41,45.35,27.13,16332.39,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Technical/Professional,Course_Code_National,05: Technical/Professional: Medicine,1219,935790.97,,,98.79,0.63,0.57,64.22,71.27,5.8,16.35,9.9,48.9,54.94,101408.95,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Technical/Professional,Course_Code_National,08: Technical/Professional: Law,224,200983.38,,,95.27,1.13,3.6,35.63,51.38,8.94,16.47,14.52,45.63,27.28,45378.17,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Vocational,Course_Code_National,13: Technical/Professional: IT/Computer courses,147,83018.91,,,72.95,27.05,0.0,20.38,36.58,10.6,30.46,17.99,58.86,62.83,23072.89,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Vocational,Course_Code_National,05: Technical/Professional: Medicine,27,15998.72,,,94.41,5.59,0.0,90.45,26.31,18.68,49.88,5.95,41.27,54.54,54426.4,1
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Vocational,Course_Code_National,08: Technical/Professional: Law,1,1658.89,,,100.0,0.0,0.0,100.0,100.0,0.0,0.0,0.0,0.0,0.0,31000.0,1
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Technical/Professional,Course_Code_National,11: Technical/Professional: Education,925,770626.93,,,97.33,0.59,2.08,60.2,45.7,13.11,27.8,5.66,63.6,55.22,39201.52,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,General,Course_Code_National,02: General: Arts/Humanities,8448,23470858.64,,,96.21,0.79,2.95,50.1,24.93,30.12,28.53,10.8,75.39,19.43,8654.52,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Technical/Professional,Course_Code_National,06: Technical/Professional: Engineering,5055,5004252.04,,,99.38,0.32,0.3,25.13,60.22,8.07,13.15,6.4,36.72,57.14,72349.97,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,General,Course_Code_National,03: General: Science,5994,14855823.17,,,98.94,0.34,0.69,40.47,35.43,21.82,19.49,8.96,61.66,36.2,18629.9,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Technical/Professional,Course_Code_National,10: Technical/Professional: Management,912,939438.85,,,87.46,1.19,11.35,37.71,65.51,4.33,10.81,9.44,28.74,57.94,83836.95,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Vocational,Course_Code_National,14: Vocational courses in ITI/recognized institutes,2318,1687979.22,,,99.0,0.71,0.29,17.2,37.89,18.67,27.32,8.53,65.08,42.11,26056.85,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Technical/Professional,Course_Code_National,19: Technical/Professional: Others,758,1238043.26,,,94.74,1.22,4.04,46.73,34.3,25.99,27.34,14.48,68.9,25.53,21559.8,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Technical/Professional,Course_Code_National,07: Technical/Professional: Agriculture,200,188216.45,,,99.11,0.89,0.0,38.88,51.1,20.92,28.01,6.01,69.08,32.13,29348.52,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Vocational,Course_Code_National,06: Technical/Professional: Engineering,324,312625.5,,,99.23,0.77,0.0,19.02,45.08,17.94,27.28,4.1,51.78,38.24,36401.06,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Technical/Professional,Course_Code_National,12: Technical/Professional: CA & similar courses,330,369120.22,,,82.45,6.1,11.46,38.71,63.27,2.87,5.1,4.44,16.6,31.33,48066.88,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Vocational,Course_Code_National,11: Technical/Professional: Education,8,4481.48,,,100.0,0.0,0.0,84.5,0.0,43.23,68.22,18.14,54.24,12.12,22893.32,1
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Vocational,Course_Code_National,19: Technical/Professional: Others,51,34406.31,,,99.59,0.35,0.06,39.3,27.54,25.3,44.56,7.95,50.51,38.88,26122.67,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Vocational,Course_Code_National,07: Technical/Professional: Agriculture,8,2654.15,,,93.45,6.55,0.0,17.33,88.97,0.0,88.01,0.0,95.52,0.0,16228.92,1
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Vocational,Course_Code_National,10: Technical/Professional: Management,5,5114.67,,,100.0,0.0,0.0,32.23,62.34,0.0,1.23,0.0,69.0,36.44,39679.26,1
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Vocational,Course_Code_National,12: Technical/Professional: CA & similar courses,1,153.1,,,100.0,0.0,0.0,100.0,100.0,0.0,100.0,0.0,0.0,0.0,21000.0,1
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Vocational,Zone_x_CourseCategory,Central,430,306313.22,,,98.9,1.0,0.1,24.79,31.22,28.79,25.02,6.41,69.32,37.16,25210.52,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,General,Zone_x_CourseCategory,West,9671,31214246.79,,,99.53,0.16,0.31,44.22,23.98,27.82,26.98,10.29,59.91,12.4,8645.94,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Technical/Professional,Zone_x_CourseCategory,West,1648,1926850.08,,,95.8,1.41,2.79,38.06,57.84,6.13,12.36,5.59,32.04,24.58,66787.31,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Technical/Professional,Zone_x_CourseCategory,South,3088,4126390.8,,,96.36,0.81,2.84,39.43,59.09,7.58,14.39,8.52,42.58,65.22,65108.75,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,General,Zone_x_CourseCategory,South,14063,47318620.46,,,99.11,0.28,0.62,48.01,27.34,23.15,23.82,13.65,59.98,33.74,8786.16,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Vocational,Zone_x_CourseCategory,North,443,367505.22,,,99.47,0.27,0.26,20.16,48.64,11.16,30.58,7.24,72.28,47.54,33764.97,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Vocational,Zone_x_CourseCategory,East,475,283166.96,,,96.82,3.18,0.0,8.25,33.78,27.32,31.46,9.73,71.26,59.5,33249.16,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Vocational,Zone_x_CourseCategory,North-East,228,30630.26,,,88.35,11.58,0.07,25.58,34.41,20.44,57.07,14.27,72.0,31.91,23575.18,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Technical/Professional,Zone_x_CourseCategory,Central,1870,1845530.48,,,96.89,0.97,2.13,36.93,43.73,20.75,23.56,6.81,47.53,47.91,55281.37,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,General,Zone_x_CourseCategory,Central,17900,72986526.29,,,99.3,0.24,0.46,45.58,10.25,57.14,30.12,12.97,78.28,36.38,4868.43,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Vocational,Zone_x_CourseCategory,West,595,448145.38,,,97.5,2.5,0.0,17.55,40.71,14.12,31.89,5.74,52.06,20.56,27225.04,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Vocational,Zone_x_CourseCategory,South,719,712329.9,,,98.05,1.45,0.5,20.01,37.74,16.51,22.77,10.17,57.09,48.87,23840.82,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,General,Zone_x_CourseCategory,North,12484,37435549.9,,,98.76,0.42,0.82,43.91,31.83,23.91,30.42,12.48,69.65,40.17,9602.12,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Technical/Professional,Zone_x_CourseCategory,North,1929,1634524.17,,,94.96,2.29,2.75,36.25,71.18,4.18,14.36,5.82,45.47,54.69,63780.99,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,General,Zone_x_CourseCategory,East,14784,61310381.47,,,99.67,0.09,0.22,46.64,9.43,57.11,30.42,17.19,82.13,10.74,5082.44,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Technical/Professional,Zone_x_CourseCategory,East,1630,1280171.82,,,96.54,1.37,2.09,29.47,48.79,14.75,15.16,13.64,51.88,42.17,60900.37,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,Technical/Professional,Zone_x_CourseCategory,North-East,1205,182518.88,,,95.69,3.67,0.62,39.0,40.73,21.22,45.99,10.23,61.29,25.69,51541.41,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Course_Gender_Class_Sorting,General,Zone_x_CourseCategory,North-East,10347,10302551.42,,,99.43,0.22,0.1,43.21,17.86,32.73,38.3,28.72,84.33,10.99,5501.71,0

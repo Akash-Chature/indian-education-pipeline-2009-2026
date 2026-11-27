@@ -1,0 +1,286 @@
+survey_wave,era,section,slice_type,slice_value,n_unweighted,wgt_students,n_unrec_unweighted,unrec_share_all_students_pct,unrec_share_of_gen_pvt_unaided_pct,unrec_mean_tot_exp_rs,rec_gen_pvt_mean_tot_exp_rs,unrec_english_med_pct,english_med_pct,matched_home_vern_pct,other_nonhome_vern_pct,english_mean_tot_exp_rs,matched_vern_mean_tot_exp_rs,english_fee_premium_rs,english_fee_multiplier,commute_ge3km_pct,commute_ge5km_pct,mode_on_foot_pct,mode_bicycle_pct,mode_public_trans_pct,mode_school_bus_pct,public_trans_concession_pct,transport_uncond_mean_rs,transport_cond_mean_rs,hostel_stay_pct,hostel_interstate_mig_pct,low_n_flag
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,National,All India,93513,273714003.57,1227.0,1.96,11.33,7482.7,12174.56,41.81,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Sector,Rural,53051,195446018.24,686.0,2.12,15.65,6111.48,8835.22,33.97,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Sector,Urban,40462,78267985.33,541.0,1.57,5.86,12108.9,15915.39,68.28,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Zone,Central,20200,75138369.98,573.0,3.85,15.65,4262.04,7353.73,19.02,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Zone,North,14856,39437579.29,126.0,1.05,4.08,13356.37,13204.76,62.41,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Zone,East,16889,62873720.26,303.0,2.49,30.47,10015.24,15080.41,63.96,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Zone,North-East,11784,10517750.63,99.0,0.61,8.59,15312.92,13482.86,98.81,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Zone,West,11914,33589242.25,42.0,0.49,6.24,14370.43,19902.62,74.24,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Zone,South,17870,52157341.16,84.0,0.54,2.71,12075.93,15515.74,90.99,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Typology,UT (Non-Legislature),1195,399679.22,2.0,0.08,1.05,9543.84,26571.86,100.0,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Typology,Youthful / High-Fertility EAG,36596,138911214.54,895.0,3.28,16.2,6288.31,8315.21,34.72,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Typology,High-GSDP Industrial / Metro & Other,23097,66761004.96,137.0,0.68,6.4,15509.03,20453.66,72.67,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Typology,Ageing / Low-TFR South + Goa,17538,52351813.52,84.0,0.54,2.71,12075.93,15521.34,90.99,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Typology,North-East & Hill Special Category,15087,15290291.32,109.0,0.53,4.3,14029.26,11904.43,99.05,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Madhya Pradesh,5477,17514976.43,21.0,0.34,2.09,8082.39,9151.62,74.69,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Gujarat,4051,11460945.37,9.0,0.29,3.65,19679.09,17432.93,100.0,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Daman & Diu,176,39448.83,1.0,0.38,3.3,10100.0,19983.12,100.0,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Dadra & Nagar Haveli,188,63441.35,1.0,0.25,3.19,9020.0,27324.39,100.0,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Telangana,1966,7295778.03,4.0,0.29,0.96,6666.95,13611.31,45.3,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Karnataka,3898,11753996.53,17.0,0.36,2.65,12338.26,16372.53,87.2,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Goa,253,288564.34,0.0,0.0,0.0,,28314.75,,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Tamil Nadu,4962,15310061.26,15.0,0.46,2.22,11817.01,17980.48,100.0,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Puducherry,319,247708.41,0.0,0.0,0.0,,20843.23,,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Jammu & Kashmir (Undivided),2022,3019374.84,7.0,0.48,1.77,9242.94,9784.3,100.0,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Punjab,2096,5844245.54,34.0,2.06,8.18,12340.64,18096.85,75.78,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Chandigarh,246,202697.07,0.0,0.0,0.0,,31247.61,,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Uttarakhand,955,2353067.8,23.0,2.41,15.58,7746.45,13951.65,30.45,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Haryana,2117,5924248.72,18.0,0.83,3.04,38502.94,18070.49,93.46,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Rajasthan,4631,17786433.2,35.0,0.91,3.14,7437.27,9103.7,47.69,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Uttar Pradesh,13019,51615328.08,541.0,5.4,18.6,4107.85,6882.44,17.03,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Bihar,5451,26251758.77,202.0,4.16,42.99,11254.97,10898.14,64.54,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Sikkim,675,151811.72,1.0,0.07,0.52,19500.0,12904.53,100.0,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Nagaland,886,537627.7,0.0,0.0,0.0,,9272.44,,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Meghalaya,1345,814100.95,33.0,3.0,30.07,9208.42,10416.31,100.0,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Assam,2924,6927657.02,21.0,0.37,7.42,22886.71,14940.49,97.06,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,West Bengal,6079,19240376.7,39.0,0.57,11.57,8437.61,25025.13,54.66,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Jharkhand,2178,8376662.27,47.0,3.76,29.76,6778.22,12807.43,69.61,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Odisha,3181,9004922.51,15.0,0.51,7.89,6487.02,13217.0,33.68,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Maharashtra,7246,21736842.36,31.0,0.6,7.68,13012.57,21361.18,67.54,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Andhra Pradesh,2982,10062952.67,19.0,0.6,2.92,10129.3,12449.37,90.92,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Lakshadweep,238,15178.45,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Kerala,3158,7392752.27,29.0,1.17,6.96,14841.21,16421.34,96.73,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Andaman & Nicobar Islands,347,78913.52,0.0,0.0,0.0,,15934.15,,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Himachal Pradesh,1281,1753165.84,3.0,0.11,0.63,7220.97,14143.41,100.0,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Delhi,1508,2554346.27,6.0,0.45,2.59,33184.35,32903.74,100.0,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Arunachal Pradesh,1007,340496.01,5.0,0.17,5.97,2632.77,25716.18,100.0,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Manipur,2157,678261.22,12.0,0.42,1.79,7350.12,12953.08,100.0,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Mizoram,1181,271655.07,25.0,2.82,15.7,12018.04,12680.7,100.0,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Tripura,1609,796140.95,2.0,0.31,15.43,18358.83,19642.53,100.0,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,State,Chhattisgarh,1704,6008065.47,11.0,0.73,7.15,8836.9,8347.8,69.86,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Attend_Level,Post-Graduate,2824,4532317.51,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Attend_Level,Higher Secondary,9781,26316846.71,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Attend_Level,Graduate,10872,21789398.19,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Attend_Level,Diploma,8713,7731126.14,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Attend_Level,Upper Primary,17149,58737885.93,284.0,1.96,8.57,8705.02,14301.34,34.02,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Attend_Level,Primary,31137,114801621.37,943.0,3.68,12.41,7150.48,11296.77,43.93,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Attend_Level,Secondary,13037,39804807.73,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Sector_x_Quintile,Rural | Q5 (Richest),14965,39067841.01,143.0,1.88,9.02,13226.36,13839.94,63.1,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Sector_x_Quintile,Rural | Q2,8816,39736275.42,154.0,2.41,21.11,3348.25,4689.86,20.46,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Sector_x_Quintile,Rural | Q3,10162,38495716.79,150.0,2.33,17.33,5265.17,7233.65,34.67,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Sector_x_Quintile,Rural | Q4,10853,39031425.94,129.0,1.89,14.07,7030.89,8305.03,41.85,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Sector_x_Quintile,Urban | Q3,8148,15932171.57,107.0,1.43,5.05,9454.89,12386.76,64.03,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Sector_x_Quintile,Urban | Q5 (Richest),8984,15423196.01,49.0,0.68,2.73,40761.88,31850.42,91.68,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Sector_x_Quintile,Urban | Q1 (Poorest),7455,15777082.47,169.0,2.34,9.8,6688.58,6121.55,51.52,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Sector_x_Quintile,Rural | Q1 (Poorest),8255,39114759.1,110.0,2.1,24.1,3068.06,3333.21,15.83,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Sector_x_Quintile,Urban | Q4,8226,15579531.74,107.0,1.46,5.0,14752.89,18006.59,81.76,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Sector_x_Quintile,Urban | Q2,7649,15556003.55,109.0,1.92,6.98,8766.85,10036.32,73.78,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Social_Group,Others,28604,74551318.5,364.0,2.09,10.1,9941.45,16207.98,55.47,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Social_Group,Unreported,3,7926.29,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,1
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Social_Group,ST,12897,26133211.26,97.0,0.67,9.83,4755.63,9821.69,39.82,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Social_Group,OBC,37038,121108551.19,639.0,2.49,12.42,6324.65,10625.58,35.34,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Social_Group,SC,14971,51912996.35,127.0,1.21,10.49,7721.5,8669.43,39.69,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Religion,Hinduism,70903,221549363.39,902.0,1.95,11.52,7875.98,12530.97,42.2,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Religion,Others,3552,7452047.64,33.0,1.78,9.6,10844.48,20653.15,86.63,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Religion,Islam,13126,38363800.93,218.0,2.25,11.45,4672.71,8237.52,29.37,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Religion,Unreported,3,4418.4,2.0,66.67,100.0,4075.0,,100.0,,,,,,,,,,,,,,,,,,,1
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartA_Unrecognized_Sector,Religion,Christianity,5929,6344373.21,72.0,0.81,5.11,12941.22,15170.6,98.79,,,,,,,,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,National,All India,93513,273714003.57,,,,,,,25.64,63.3,11.06,24742.79,3925.78,20817.01,6.3026,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Sector,Rural,53051,195446018.24,,,,,,,15.75,71.32,12.93,18834.82,3350.69,15484.14,5.6212,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Sector,Urban,40462,78267985.33,,,,,,,50.35,43.27,6.38,29358.17,6292.97,23065.2,4.6652,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Zone,West,11914,33589242.25,,,,,,,28.5,63.12,8.39,31349.96,4715.08,26634.89,6.6489,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Zone,South,17870,52157341.16,,,,,,,50.2,43.63,6.18,23792.9,3040.52,20752.38,7.8253,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Zone,Central,20200,75138369.98,,,,,,,13.79,82.43,3.78,23303.29,3481.4,19821.89,6.6937,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Zone,North,14856,39437579.29,,,,,,,31.96,53.24,14.8,25859.65,5701.27,20158.38,4.5358,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Zone,East,16889,62873720.26,,,,,,,12.38,66.57,21.06,25411.77,3882.32,21529.45,6.5455,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Zone,North-East,11784,10517750.63,,,,,,,35.11,42.94,21.95,13166.94,2923.27,10243.67,4.5042,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Typology,Youthful / High-Fertility EAG,36596,138911214.54,,,,,,,13.39,72.25,14.36,23553.05,3699.44,19853.61,6.3666,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Typology,High-GSDP Industrial / Metro & Other,23097,66761004.96,,,,,,,26.7,66.83,6.47,32253.6,4973.5,27280.09,6.4851,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Typology,Ageing / Low-TFR South + Goa,17538,52351813.52,,,,,,,50.41,43.44,6.15,23682.55,3038.41,20644.14,7.7944,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Typology,North-East & Hill Special Category,15087,15290291.32,,,,,,,46.64,35.53,17.83,12932.36,3215.8,9716.56,4.0215,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Typology,UT (Non-Legislature),1195,399679.22,,,,,,,60.88,27.23,11.88,26609.48,4004.1,22605.38,6.6456,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Madhya Pradesh,5477,17514976.43,,,,,,,16.29,82.05,1.66,22766.37,3442.4,19323.97,6.6135,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Gujarat,4051,11460945.37,,,,,,,14.55,80.61,4.84,35744.96,5591.24,30153.72,6.393,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Daman & Diu,176,39448.83,,,,,,,51.88,29.94,18.19,21262.79,6037.89,15224.9,3.5216,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Dadra & Nagar Haveli,188,63441.35,,,,,,,26.05,39.74,34.21,32318.25,3137.42,29180.83,10.3009,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Telangana,1966,7295778.03,,,,,,,57.83,33.04,9.13,18233.37,4357.43,13875.95,4.1844,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Karnataka,3898,11753996.53,,,,,,,37.18,51.06,11.76,23648.05,2992.01,20656.04,7.9037,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Goa,253,288564.34,,,,,,,91.36,3.34,5.3,10860.4,1524.93,9335.47,7.1219,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Tamil Nadu,4962,15310061.26,,,,,,,48.47,47.75,3.77,30826.48,2775.93,28050.55,11.1049,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Puducherry,319,247708.41,,,,,,,75.76,23.96,0.29,24568.72,1880.17,22688.55,13.0673,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Jammu & Kashmir (Undivided),2022,3019374.84,,,,,,,89.94,1.91,8.15,9451.04,5401.83,4049.21,1.7496,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Punjab,2096,5844245.54,,,,,,,46.6,47.34,6.06,27952.7,5518.88,22433.82,5.0649,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Chandigarh,246,202697.07,,,,,,,75.28,23.71,1.01,30960.37,3743.68,27216.69,8.27,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Uttarakhand,955,2353067.8,,,,,,,18.47,77.83,3.7,22742.26,3299.53,19442.73,6.8926,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Haryana,2117,5924248.72,,,,,,,41.92,53.89,4.19,35042.46,5138.22,29904.24,6.82,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Rajasthan,4631,17786433.2,,,,,,,11.37,62.34,26.29,27038.21,6373.03,20665.18,4.2426,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Uttar Pradesh,13019,51615328.08,,,,,,,13.46,84.59,1.95,23452.81,3641.66,19811.14,6.4401,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Bihar,5451,26251758.77,,,,,,,10.91,58.29,30.8,22760.71,3230.46,19530.25,7.0457,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Sikkim,675,151811.72,,,,,,,98.9,0.81,0.3,7717.24,13618.6,-5901.36,0.5667,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Nagaland,886,537627.7,,,,,,,96.76,1.31,1.93,12757.54,1833.3,10924.24,6.9588,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Meghalaya,1345,814100.95,,,,,,,86.5,13.5,0.0,8493.64,1306.87,7186.77,6.4992,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Assam,2924,6927657.02,,,,,,,16.05,54.01,29.94,16697.33,2591.65,14105.68,6.4427,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,West Bengal,6079,19240376.7,,,,,,,10.38,84.97,4.65,32847.12,5110.01,27737.11,6.428,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Jharkhand,2178,8376662.27,,,,,,,15.95,42.88,41.17,20899.15,3065.5,17833.64,6.8175,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Odisha,3181,9004922.51,,,,,,,17.58,73.43,8.99,24631.33,2799.31,21832.02,8.7991,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Maharashtra,7246,21736842.36,,,,,,,34.98,54.82,10.2,31121.35,4040.35,27081.0,7.7026,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Andhra Pradesh,2982,10062952.67,,,,,,,51.27,43.76,4.96,18663.36,2466.78,16196.58,7.5659,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Lakshadweep,238,15178.45,,,,,,,51.7,47.61,0.7,7889.64,574.59,7315.05,13.7309,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Kerala,3158,7392752.27,,,,,,,64.5,34.43,1.07,23521.91,3674.57,19847.34,6.4013,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Andaman & Nicobar Islands,347,78913.52,,,,,,,58.18,20.96,20.87,15675.64,6128.14,9547.5,2.558,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Himachal Pradesh,1281,1753165.84,,,,,,,41.25,49.01,9.74,24807.46,4606.47,20201.0,5.3854,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Delhi,1508,2554346.27,,,,,,,52.8,45.22,1.98,36989.37,5965.13,31024.24,6.2009,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Arunachal Pradesh,1007,340496.01,,,,,,,93.28,0.35,6.37,9115.84,1250.04,7865.8,7.2924,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Manipur,2157,678261.22,,,,,,,91.67,8.15,0.18,13666.83,2090.29,11576.54,6.5383,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Mizoram,1181,271655.07,,,,,,,74.85,23.43,1.72,14270.51,3016.35,11254.16,4.731,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Tripura,1609,796140.95,,,,,,,7.96,67.34,24.7,31285.02,5637.72,25647.3,5.5492,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,State,Chhattisgarh,1704,6008065.47,,,,,,,9.26,65.03,25.71,24189.75,1833.83,22355.93,13.1909,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Attend_Level,Diploma,8713,7731126.14,,,,,,,63.72,31.45,4.83,48432.03,22211.37,26220.65,2.1805,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Attend_Level,Upper Primary,17149,58737885.93,,,,,,,19.43,67.77,12.81,16979.98,2647.37,14332.61,6.4139,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Attend_Level,Primary,31137,114801621.37,,,,,,,22.46,64.61,12.93,14177.12,1835.48,12341.64,7.7239,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Attend_Level,Secondary,13037,39804807.73,,,,,,,19.46,69.91,10.62,19181.81,4637.07,14544.75,4.1366,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Attend_Level,Post-Graduate,2824,4532317.51,,,,,,,54.87,41.35,3.78,55248.02,13395.75,41852.26,4.1243,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Attend_Level,Higher Secondary,9781,26316846.71,,,,,,,30.17,62.11,7.72,24121.32,7530.83,16590.49,3.203,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Attend_Level,Graduate,10872,21789398.19,,,,,,,45.39,49.6,5.0,46630.34,9939.83,36690.51,4.6913,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Sector_x_Quintile,Rural | Q1 (Poorest),8255,39114759.1,,,,,,,4.45,79.58,15.98,8949.92,1576.09,7373.82,5.6785,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Sector_x_Quintile,Urban | Q4,8226,15579531.74,,,,,,,65.58,30.7,3.72,25539.05,9965.25,15573.8,2.5628,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Sector_x_Quintile,Urban | Q2,7649,15556003.55,,,,,,,35.92,54.66,9.42,14596.53,4963.37,9633.16,2.9409,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Sector_x_Quintile,Rural | Q5 (Richest),14965,39067841.01,,,,,,,38.07,54.16,7.78,25865.75,7054.05,18811.69,3.6668,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Sector_x_Quintile,Rural | Q2,8816,39736275.42,,,,,,,6.6,77.5,15.89,10183.93,2326.95,7856.99,4.3765,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Sector_x_Quintile,Rural | Q3,10162,38495716.79,,,,,,,13.32,73.18,13.5,11990.18,3110.38,8879.8,3.8549,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Sector_x_Quintile,Rural | Q4,10853,39031425.94,,,,,,,16.45,72.11,11.44,14230.56,3889.98,10340.58,3.6583,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Sector_x_Quintile,Urban | Q3,8148,15932171.57,,,,,,,48.79,45.6,5.61,18810.05,6667.21,12142.84,2.8213,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Sector_x_Quintile,Urban | Q5 (Richest),8984,15423196.01,,,,,,,83.58,14.55,1.87,49222.16,17626.69,31595.48,2.7925,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Sector_x_Quintile,Urban | Q1 (Poorest),7455,15777082.47,,,,,,,18.61,70.17,11.22,11464.66,3184.35,8280.31,3.6003,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Social_Group,OBC,37038,121108551.19,,,,,,,24.88,63.62,11.5,22771.02,3712.37,19058.65,6.1338,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Social_Group,SC,14971,51912996.35,,,,,,,13.79,78.26,7.95,19496.23,3161.14,16335.09,6.1675,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Social_Group,ST,12897,26133211.26,,,,,,,16.28,62.08,21.64,14444.24,2474.48,11969.75,5.8373,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Social_Group,Others,28604,74551318.5,,,,,,,38.42,52.79,8.79,29659.11,5731.83,23927.28,5.1745,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Social_Group,Unreported,3,7926.29,,,,,,,0.0,100.0,0.0,,170.0,,,,,,,,,,,,,,1
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Religion,Christianity,5929,6344373.21,,,,,,,64.29,24.63,11.07,21546.06,3092.65,18453.41,6.9669,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Religion,Hinduism,70903,221549363.39,,,,,,,24.13,66.56,9.3,26284.17,4007.9,22276.27,6.5581,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Religion,Others,3552,7452047.64,,,,,,,44.82,41.77,13.41,28093.96,5060.41,23033.56,5.5517,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Religion,Islam,13126,38363800.93,,,,,,,24.23,55.04,20.73,16082.92,3246.77,12836.15,4.9535,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Religion,Unreported,3,4418.4,,,,,,,66.67,33.33,0.0,4075.0,2600.0,1475.0,1.5673,,,,,,,,,,,,1
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Inst_Type,Government,49289,160847332.46,,,,,,,7.77,77.26,14.97,13881.56,2519.78,11361.79,5.509,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Inst_Type,Private unaided,28958,75570820.22,,,,,,,55.78,38.9,5.33,27157.81,7871.63,19286.17,3.4501,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Inst_Type,Not known,310,661303.59,,,,,,,46.71,40.06,13.23,43752.02,8818.49,34933.53,4.9614,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Inst_Type,Private aided,14956,36634547.3,,,,,,,41.56,52.79,5.65,26591.48,6895.85,19695.63,3.8562,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Upper Primary | Government,10508,38746709.63,,,,,,,4.57,79.45,15.97,4306.64,1776.94,2529.7,2.4236,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Primary | Government,17972,71222617.32,,,,,,,3.0,80.21,16.79,4156.32,1015.54,3140.78,4.0927,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Secondary | Government,7476,24022259.59,,,,,,,6.38,80.05,13.57,5978.43,3621.66,2356.77,1.6507,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Higher Secondary | Government,4824,12876883.39,,,,,,,17.29,70.9,11.82,11079.33,6011.35,5067.98,1.8431,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Diploma | Government,2876,2532901.3,,,,,,,49.73,40.77,9.5,28526.34,13588.73,14937.61,2.0993,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Primary | Private unaided,10071,34060809.83,,,,,,,56.86,36.75,6.4,15041.17,4651.3,10389.87,3.2338,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Upper Primary | Private unaided,4380,13416154.87,,,,,,,54.79,39.03,6.17,20182.8,6029.06,14153.74,3.3476,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Post-Graduate | Private aided,574,1007518.14,,,,,,,55.03,42.76,2.21,52055.3,12636.66,39418.65,4.1194,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Post-Graduate | Government,1324,2235674.0,,,,,,,44.28,50.03,5.7,28018.81,11458.08,16560.73,2.4453,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Secondary | Private aided,2237,6423584.12,,,,,,,25.9,66.78,7.32,19380.03,5711.3,13668.73,3.3933,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Secondary | Not known,45,67316.01,,,,,,,60.79,36.51,2.7,19134.8,10765.4,8369.4,1.7774,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Upper Primary | Private aided,2229,6510768.52,,,,,,,34.53,57.84,7.63,16536.42,5036.02,11500.4,3.2836,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Primary | Not known,74,249982.89,,,,,,,45.53,30.43,24.03,11864.77,2824.63,9040.13,4.2005,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Post-Graduate | Not known,9,9686.35,,,,,,,13.71,86.29,0.0,53622.63,13884.74,39737.89,3.862,,,,,,,,,,,,1
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Secondary | Private unaided,3279,9291648.01,,,,,,,48.54,46.1,5.36,23596.78,8084.37,15512.41,2.9188,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Diploma | Not known,67,49544.41,,,,,,,73.81,23.95,2.24,115990.45,25415.11,90575.34,4.5638,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Diploma | Private unaided,3662,3078564.99,,,,,,,69.62,27.2,3.18,57473.94,33209.15,24264.79,1.7307,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Higher Secondary | Private unaided,2796,7539944.93,,,,,,,45.65,50.89,3.46,32221.01,10684.06,21536.95,3.0158,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Graduate | Government,4309,9210287.23,,,,,,,28.12,63.44,8.44,23004.36,8392.1,14612.26,2.7412,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Diploma | Private aided,2108,2070115.43,,,,,,,71.81,26.56,1.63,50601.55,21588.56,29012.99,2.3439,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Primary | Private aided,3020,9268211.33,,,,,,,45.03,48.04,6.93,15352.96,4423.7,10929.26,3.4706,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Graduate | Private aided,2659,5557729.37,,,,,,,51.57,45.41,3.02,39203.72,10280.01,28923.71,3.8136,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Post-Graduate | Private unaided,917,1279439.0,,,,,,,73.57,24.73,1.7,85764.2,21265.28,64498.92,4.0331,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Graduate | Private unaided,3853,6904258.58,,,,,,,63.7,34.27,2.03,64540.26,13279.65,51260.6,4.8601,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Graduate | Not known,51,117123.01,,,,,,,31.24,64.7,4.07,148097.22,13655.65,134441.56,10.8451,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Higher Secondary | Private aided,2129,5796620.38,,,,,,,38.51,57.4,4.1,24595.25,8098.47,16496.78,3.037,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Higher Secondary | Not known,32,103398.02,,,,,,,38.4,49.3,12.3,26584.1,5246.2,21337.89,5.0673,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Level_x_InstType,Upper Primary | Not known,32,64252.91,,,,,,,62.16,26.95,10.89,14864.71,7919.29,6945.41,1.877,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Sex,Female,41239,123757857.83,,,,,,,23.86,65.34,10.8,23396.71,3605.23,19791.48,6.4897,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartB_English_Premium_and_Language,Sex,Male,52274,149956145.75,,,,,,,27.12,61.62,11.26,25720.17,4206.29,21513.88,6.1147,,,,,,,,,,,,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,National,All India,93513,273714003.57,,,,,,,,,,,,,,24.19,17.41,63.52,10.55,12.03,7.97,44.78,883.36,2878.72,4.84,25.86,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Sector,Rural,53051,195446018.24,,,,,,,,,,,,,,23.91,17.34,68.07,11.39,10.87,6.19,49.16,593.18,2272.98,5.01,27.67,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Sector,Urban,40462,78267985.33,,,,,,,,,,,,,,24.88,17.59,52.06,8.43,14.96,12.46,36.75,1607.99,3815.38,4.4,20.74,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Zone,Central,20200,75138369.98,,,,,,,,,,,,,,21.02,14.42,69.34,13.24,7.14,5.72,9.47,587.81,2378.05,5.64,41.55,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Zone,North,14856,39437579.29,,,,,,,,,,,,,,26.81,20.45,64.33,3.43,11.89,14.0,39.05,1335.63,4049.85,2.35,16.07,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Zone,East,16889,62873720.26,,,,,,,,,,,,,,18.81,12.42,69.38,15.93,8.42,3.43,22.33,422.66,1754.68,3.68,20.88,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Zone,North-East,11784,10517750.63,,,,,,,,,,,,,,15.65,8.97,67.66,13.33,10.88,2.75,10.66,508.72,2384.66,3.65,22.5,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Zone,West,11914,33589242.25,,,,,,,,,,,,,,27.43,19.84,60.14,6.22,18.06,5.91,50.74,1342.22,3774.34,4.49,2.76,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Zone,South,17870,52157341.16,,,,,,,,,,,,,,32.92,25.61,48.74,7.76,19.92,14.58,77.41,1302.57,2943.75,7.43,23.35,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Typology,UT (Non-Legislature),1195,399679.22,,,,,,,,,,,,,,32.01,21.61,47.15,7.91,17.28,8.68,52.36,2089.13,4267.24,2.96,48.85,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Typology,Youthful / High-Fertility EAG,36596,138911214.54,,,,,,,,,,,,,,20.46,14.32,70.36,12.47,7.31,5.85,16.37,553.91,2309.73,4.9,33.14,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Typology,High-GSDP Industrial / Metro & Other,23097,66761004.96,,,,,,,,,,,,,,25.93,18.35,60.11,9.09,15.13,7.91,43.78,1271.39,3613.16,3.04,6.65,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Typology,Ageing / Low-TFR South + Goa,17538,52351813.52,,,,,,,,,,,,,,33.0,25.66,48.64,7.72,19.97,14.67,77.35,1306.31,2951.14,7.39,23.33,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Typology,North-East & Hill Special Category,15087,15290291.32,,,,,,,,,,,,,,20.13,13.06,67.28,9.25,14.21,4.65,25.87,702.6,2813.74,3.48,24.13,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Madhya Pradesh,5477,17514976.43,,,,,,,,,,,,,,23.82,16.74,67.96,10.58,8.97,7.58,17.38,740.18,2759.62,2.42,7.44,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Gujarat,4051,11460945.37,,,,,,,,,,,,,,23.18,17.17,63.98,5.6,12.01,4.3,67.38,1114.15,3546.94,5.33,3.56,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Daman & Diu,176,39448.83,,,,,,,,,,,,,,30.06,19.06,49.5,1.4,5.94,18.69,81.58,1423.24,3721.06,3.79,32.74,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Dadra & Nagar Haveli,188,63441.35,,,,,,,,,,,,,,19.84,16.58,67.66,1.13,1.53,7.4,45.01,1478.47,4270.16,3.66,92.45,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Telangana,1966,7295778.03,,,,,,,,,,,,,,35.26,29.86,50.0,3.73,19.5,16.58,71.88,1256.44,2803.46,8.27,100.0,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Karnataka,3898,11753996.53,,,,,,,,,,,,,,27.25,19.98,57.98,8.81,19.39,7.56,83.18,871.45,2303.31,5.54,6.28,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Goa,253,288564.34,,,,,,,,,,,,,,46.91,33.03,28.51,0.14,34.32,27.98,65.5,1923.31,3923.22,0.03,70.0,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Tamil Nadu,4962,15310061.26,,,,,,,,,,,,,,34.16,26.5,42.95,9.5,20.11,17.95,67.78,1655.2,3802.81,5.85,1.07,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Puducherry,319,247708.41,,,,,,,,,,,,,,31.77,28.55,43.9,9.56,17.84,16.96,25.68,2659.96,4857.62,2.2,61.58,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Jammu & Kashmir (Undivided),2022,3019374.84,,,,,,,,,,,,,,26.78,18.67,69.4,0.19,21.37,7.79,54.99,1054.92,3468.38,2.02,31.12,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Punjab,2096,5844245.54,,,,,,,,,,,,,,34.33,25.09,47.99,7.04,11.67,22.69,20.41,2066.54,4771.68,1.33,12.87,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Chandigarh,246,202697.07,,,,,,,,,,,,,,37.22,25.83,43.15,11.26,15.02,10.16,39.45,2857.22,5189.59,0.16,100.0,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Uttarakhand,955,2353067.8,,,,,,,,,,,,,,20.78,14.0,76.87,3.41,9.61,5.58,2.57,750.47,3699.83,0.6,24.79,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Haryana,2117,5924248.72,,,,,,,,,,,,,,29.1,23.29,57.69,2.12,10.51,22.5,43.78,1647.74,4071.66,1.63,31.93,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Rajasthan,4631,17786433.2,,,,,,,,,,,,,,22.77,17.54,70.74,3.9,9.13,11.34,55.04,885.27,3212.73,3.23,8.28,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Uttar Pradesh,13019,51615328.08,,,,,,,,,,,,,,20.06,14.1,69.93,13.44,6.89,5.22,5.78,556.71,2263.32,7.19,46.13,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Bihar,5451,26251758.77,,,,,,,,,,,,,,16.65,11.56,74.91,12.8,6.75,3.78,6.28,271.03,1502.17,3.93,32.5,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Sikkim,675,151811.72,,,,,,,,,,,,,,13.11,6.37,90.03,0.11,3.8,3.23,10.15,415.59,4676.12,3.96,56.41,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Nagaland,886,537627.7,,,,,,,,,,,,,,6.08,3.79,86.14,0.04,6.82,1.83,0.84,416.48,3491.57,12.14,33.01,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Meghalaya,1345,814100.95,,,,,,,,,,,,,,18.02,9.5,73.35,4.17,17.05,1.9,18.23,953.83,3687.27,1.67,38.65,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Assam,2924,6927657.02,,,,,,,,,,,,,,16.33,8.88,64.02,17.78,10.78,1.82,3.78,422.06,1991.28,1.66,14.02,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,West Bengal,6079,19240376.7,,,,,,,,,,,,,,19.39,11.37,64.26,17.83,12.22,2.42,39.48,587.78,1955.56,1.75,12.08,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Jharkhand,2178,8376662.27,,,,,,,,,,,,,,22.93,16.71,68.42,13.87,8.78,3.75,4.69,494.55,1776.08,4.41,24.53,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Odisha,3181,9004922.51,,,,,,,,,,,,,,20.03,13.12,64.99,22.96,4.89,4.29,25.43,445.04,1747.88,6.43,3.03,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Maharashtra,7246,21736842.36,,,,,,,,,,,,,,29.43,21.09,58.53,6.65,21.11,6.44,45.41,1454.21,3870.77,4.1,1.92,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Andhra Pradesh,2982,10062952.67,,,,,,,,,,,,,,27.9,23.96,58.8,9.56,11.93,11.61,74.82,993.22,2689.22,12.21,4.85,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Lakshadweep,238,15178.45,,,,,,,,,,,,,,11.16,0.65,45.1,45.65,0.95,0.97,75.15,90.51,307.02,8.77,78.61,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Kerala,3158,7392752.27,,,,,,,,,,,,,,44.0,30.77,31.26,4.02,31.45,20.93,90.39,1681.09,2589.75,6.55,38.36,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Andaman & Nicobar Islands,347,78913.52,,,,,,,,,,,,,,33.51,19.98,39.36,0.93,46.24,1.9,61.79,1324.46,2456.58,8.03,27.77,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Himachal Pradesh,1281,1753165.84,,,,,,,,,,,,,,35.68,28.13,61.32,0.2,21.96,10.7,22.68,1258.97,3364.96,5.05,26.32,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Delhi,1508,2554346.27,,,,,,,,,,,,,,31.36,26.13,58.22,0.33,18.77,10.7,13.77,2878.12,7252.66,0.59,97.13,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Arunachal Pradesh,1007,340496.01,,,,,,,,,,,,,,24.97,21.02,80.71,4.89,3.96,4.17,48.44,346.86,2853.34,18.82,15.62,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Manipur,2157,678261.22,,,,,,,,,,,,,,18.85,12.21,54.11,7.25,17.86,14.23,47.66,1080.83,2721.11,10.08,27.27,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Mizoram,1181,271655.07,,,,,,,,,,,,,,9.31,6.14,77.78,0.31,12.71,2.64,3.33,684.04,2649.7,8.03,20.7,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Tripura,1609,796140.95,,,,,,,,,,,,,,9.71,6.24,79.26,8.89,5.96,1.79,3.99,409.69,3069.36,3.59,22.96,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,State,Chhattisgarh,1704,6008065.47,,,,,,,,,,,,,,21.13,10.35,68.28,19.36,3.87,4.5,12.18,410.81,2093.09,1.69,16.81,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Attend_Level,Post-Graduate,2824,4532317.51,,,,,,,,,,,,,,71.69,65.54,18.9,6.7,47.34,8.58,34.84,2750.6,3779.6,14.79,30.96,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Attend_Level,Higher Secondary,9781,26316846.71,,,,,,,,,,,,,,44.8,32.49,34.62,25.77,26.67,5.7,52.64,1178.41,2255.78,6.24,24.07,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Attend_Level,Graduate,10872,21789398.19,,,,,,,,,,,,,,69.38,60.83,19.36,12.9,46.89,7.97,41.05,2469.87,3380.09,12.98,29.94,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Attend_Level,Diploma,8713,7731126.14,,,,,,,,,,,,,,65.65,56.28,21.66,11.76,44.68,9.68,42.94,2967.49,4115.73,20.48,20.9,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Attend_Level,Upper Primary,17149,58737885.93,,,,,,,,,,,,,,15.13,8.55,73.75,9.9,5.47,6.79,53.74,528.42,2576.98,3.64,24.29,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Attend_Level,Primary,31137,114801621.37,,,,,,,,,,,,,,9.38,6.09,80.87,2.1,2.48,9.54,24.12,568.59,3271.71,2.42,27.2,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Attend_Level,Secondary,13037,39804807.73,,,,,,,,,,,,,,29.92,17.8,53.41,24.84,11.24,6.3,53.16,634.04,1875.9,4.05,23.1,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Sector_x_Quintile,Rural | Q5 (Richest),14965,39067841.01,,,,,,,,,,,,,,41.34,33.05,45.83,9.83,20.35,16.56,51.79,1549.83,3261.11,8.25,22.32,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Sector_x_Quintile,Rural | Q2,8816,39736275.42,,,,,,,,,,,,,,15.89,9.89,77.88,12.53,5.69,2.17,41.79,216.64,1326.55,3.27,22.06,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Sector_x_Quintile,Rural | Q3,10162,38495716.79,,,,,,,,,,,,,,21.94,16.46,70.03,11.88,10.95,4.35,49.72,460.1,1887.46,4.07,30.01,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Sector_x_Quintile,Rural | Q4,10853,39031425.94,,,,,,,,,,,,,,27.33,19.35,62.96,13.21,13.44,6.47,51.48,608.04,2015.19,4.64,33.82,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Sector_x_Quintile,Urban | Q3,8148,15932171.57,,,,,,,,,,,,,,22.9,15.85,51.85,8.95,15.57,11.8,44.54,1164.05,2856.03,3.7,13.59,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Sector_x_Quintile,Urban | Q5 (Richest),8984,15423196.01,,,,,,,,,,,,,,44.99,33.29,26.36,6.54,21.69,24.8,31.57,3830.86,5686.31,9.03,29.38,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Sector_x_Quintile,Urban | Q1 (Poorest),7455,15777082.47,,,,,,,,,,,,,,7.98,5.28,79.2,7.32,6.67,3.06,24.72,347.43,2048.1,2.67,8.0,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Sector_x_Quintile,Rural | Q1 (Poorest),8255,39114759.1,,,,,,,,,,,,,,13.3,8.16,83.33,9.51,4.07,1.52,37.57,136.35,1113.77,4.85,32.77,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Sector_x_Quintile,Urban | Q4,8226,15579531.74,,,,,,,,,,,,,,33.12,24.23,38.05,10.32,19.29,15.98,39.05,1989.78,3603.75,3.85,23.47,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Sector_x_Quintile,Urban | Q2,7649,15556003.55,,,,,,,,,,,,,,16.33,9.99,63.59,9.02,11.93,7.19,38.76,754.85,2434.56,2.84,11.51,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Social_Group,Others,28604,74551318.5,,,,,,,,,,,,,,29.27,21.5,53.77,11.12,14.61,11.57,38.68,1399.02,3491.78,4.94,28.19,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Social_Group,Unreported,3,7926.29,,,,,,,,,,,,,,0.0,0.0,100.0,0.0,0.0,0.0,,0.0,,0.0,,1
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Social_Group,OBC,37038,121108551.19,,,,,,,,,,,,,,23.97,17.61,63.51,10.44,11.73,8.58,47.99,822.36,2685.68,4.39,29.06,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Social_Group,SC,14971,51912996.35,,,,,,,,,,,,,,18.9,12.87,71.92,9.73,10.68,4.16,51.56,522.99,2334.2,4.01,26.0,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Social_Group,ST,12897,26133211.26,,,,,,,,,,,,,,21.22,13.86,74.57,11.1,8.77,2.52,37.4,411.14,1987.3,8.27,13.9,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Religion,Islam,13126,38363800.93,,,,,,,,,,,,,,16.18,11.16,72.69,6.89,9.86,5.48,41.84,589.74,2520.94,4.06,32.25,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Religion,Hinduism,70903,221549363.39,,,,,,,,,,,,,,25.0,18.05,62.71,11.37,12.07,8.04,45.24,887.51,2847.5,4.9,25.31,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Religion,Others,3552,7452047.64,,,,,,,,,,,,,,34.57,25.02,46.84,8.73,15.35,18.14,28.78,2000.93,4366.81,3.28,19.28,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Religion,Unreported,3,4418.4,,,,,,,,,,,,,,0.0,0.0,100.0,0.0,0.0,0.0,,0.0,,0.0,,1
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Religion,Christianity,5929,6344373.2,,,,,,,,,,,,,,32.3,24.01,55.53,6.43,19.91,8.72,58.17,1201.99,2990.8,9.19,21.81,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Course_Category,Technical/Professional,11370,10995986.24,,,,,,,,,,,,,,64.17,57.36,26.54,5.7,37.2,15.6,41.61,3648.31,5323.7,28.32,28.75,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Course_Category,Vocational,2890,2148090.94,,,,,,,,,,,,,,73.58,65.19,17.35,13.43,51.57,7.16,52.46,3031.67,3886.12,15.48,10.49,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Course_Category,General,79249,260567876.33,,,,,,,,,,,,,,22.13,15.36,65.43,10.73,10.67,7.67,44.93,748.95,2609.72,3.76,25.47,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Course_Category,Unreported (Missing course_cd),4,2050.07,,,,,,,,,,,,,,40.96,40.96,39.5,19.53,40.96,0.0,0.0,3031.41,7400.0,0.0,,1
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Sex,Female,41239,123757857.83,,,,,,,,,,,,,,22.17,15.45,66.19,8.51,11.78,7.75,45.21,826.77,2895.23,4.21,25.48,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Sex,Male,52274,149956145.75,,,,,,,,,,,,,,25.85,19.02,61.32,12.23,12.24,8.16,44.43,930.07,2866.73,5.36,26.11,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Level_x_Sex,Upper Primary | Female,7883,26816017.08,,,,,,,,,,,,,,14.62,7.97,75.84,7.98,5.49,6.36,55.91,515.54,2742.72,3.78,23.77,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Level_x_Sex,Primary | Female,14268,52607041.01,,,,,,,,,,,,,,8.38,5.24,82.27,1.51,2.4,8.66,24.33,520.61,3235.67,2.37,31.18,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Level_x_Sex,Higher Secondary | Male,5253,14604290.07,,,,,,,,,,,,,,47.29,34.91,31.67,28.52,27.37,5.33,52.82,1208.22,2215.7,7.24,25.64,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Level_x_Sex,Graduate | Male,6135,11937281.28,,,,,,,,,,,,,,71.35,63.12,17.53,16.08,45.65,6.28,39.9,2541.91,3453.28,14.09,31.7,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Level_x_Sex,Upper Primary | Male,9266,31921868.85,,,,,,,,,,,,,,15.56,9.05,71.98,11.53,5.45,7.16,51.9,539.25,2457.71,3.51,24.77,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Level_x_Sex,Post-Graduate | Male,1480,2464346.81,,,,,,,,,,,,,,73.62,68.02,17.33,8.84,44.78,7.36,35.83,2674.84,3674.88,16.04,32.78,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Level_x_Sex,Post-Graduate | Female,1344,2067970.7,,,,,,,,,,,,,,69.32,62.49,20.82,4.09,50.47,10.06,33.77,2840.89,3904.44,13.3,28.35,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Level_x_Sex,Diploma | Female,2441,2482834.55,,,,,,,,,,,,,,58.22,47.15,25.69,12.8,41.72,8.63,37.56,2588.96,3980.33,18.46,16.55,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Level_x_Sex,Secondary | Male,6999,21585486.79,,,,,,,,,,,,,,31.81,19.44,50.69,28.68,10.5,6.0,51.9,614.99,1733.76,5.2,23.58,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Level_x_Sex,Diploma | Male,6272,5248291.59,,,,,,,,,,,,,,69.15,60.58,19.76,11.28,46.07,10.18,45.23,3146.56,4170.96,21.44,22.67,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Level_x_Sex,Primary | Male,16869,62194580.36,,,,,,,,,,,,,,10.23,6.8,79.68,2.6,2.54,10.28,23.95,609.16,3298.27,2.46,23.95,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Level_x_Sex,Graduate | Female,4737,9852116.91,,,,,,,,,,,,,,66.96,58.01,21.6,9.0,48.42,10.04,42.37,2382.58,3289.97,11.63,27.35,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Level_x_Sex,Secondary | Female,6038,18219320.94,,,,,,,,,,,,,,27.69,15.86,56.64,20.3,12.11,6.67,54.46,656.62,2063.65,2.69,22.01,0
+"2014 (NSSO 71st, Jan-Jun)",RTE Era Endpoint (2014),PartC_Mobility_and_Hostel_Tax,Level_x_Sex,Higher Secondary | Female,4528,11712556.64,,,,,,,,,,,,,,41.71,29.49,38.29,22.36,25.8,6.17,52.42,1141.25,2310.95,4.98,21.21,0
