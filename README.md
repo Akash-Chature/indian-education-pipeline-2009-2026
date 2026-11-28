@@ -30,7 +30,7 @@ All six standalone Stage 1A baseline audits (`81` hardened CSVs + `6` paired Dat
 | **2** | **UDISE+ / DISE** (MoE School Supply Census) | `AY 2014–15` to `2025–26` (`12.1M+` school records; lossless EAV MoE parity — **Longitudinal**) | **PASS (`22` CSVs)** | **Held (Dec 2 Cutoff)** — awaiting official NIEPA `2009–12` DISE raw data |
 | **3** | **ASER Rural Microdata** (Formal Research MoU) | `2009–2024` (`6` waves; `3,501,238` rows across `32` rural States/UTs — **Longitudinal**) | **PASS (`13` CSVs)** | **PRIVATE HOLD (MoU)** — submitted for ASER Centre pre-publication review |
 | **4** | **NSSO 71st Round** (`Schedule 25.2`: Education) | Jan–Jun `2014` (`470,266` records: `65.9k` HHs, `93.5k` students — **RTE-Endpoint Cross-Section**) | **PASS (`12` CSVs)** | **LIVE NOW** ([`1A_4_NSSO71_Demand/`](data_aggregates/1A_4_NSSO71_Demand/)) |
-| **5** | **AISHE** (MoE Higher Education Census) | `AY 2011–12` to `2023–24` (`7` canonical waves; `279,599` rows — **Longitudinal**) | **PASS (`12` CSVs)** | **LIVE NOW** ([`1A_5_AISHE_HigherEd/`](data_aggregated/1A_5_AISHE_HigherEd/)) |
+| **5** | **AISHE** (MoE Higher Education Census) | `AY 2011–12` to `2023–24` (`7` canonical waves; `279,599` rows — **Longitudinal**) | **PASS (`12` CSVs)** | **LIVE NOW** ([`1A_5_AISHE_HigherEd/`](data_aggregates/1A_5_AISHE_HigherEd/)) |
 | **6** | **PLFS & NSSO** (`66th` / `68th` Rounds + PLFS) | `2009–10` to `2025` (`6` waves; `4,111,292` records: `778k` HHs, `3.33M` persons — **Longitudinal**) | **PASS (`12` CSVs)** | **LIVE NOW** ([`1A_6_PLFS_Labour/`](data_aggregates/1A_6_PLFS_Labour/)) |
 
 ---
